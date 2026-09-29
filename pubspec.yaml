@@ -30,3 +30,6 @@ flutter:
     - assets/books/
     - assets/movies/
     - assets/products/
+    - assets/real_estate/
+    - assets/fitness/
+    - assets/travel/
