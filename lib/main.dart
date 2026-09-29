@@ -1,3 +1,6 @@
+import 'package:challenge/screen_10.dart';
+import 'package:challenge/screen_11.dart';
+import 'package:challenge/screen_12.dart';
 import 'package:challenge/screen_4.dart';
 import 'package:challenge/screen_5.dart';
 import 'package:challenge/screen_6.dart';
@@ -20,7 +23,7 @@ class ChallengeApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: const Screen7(),
+      home: const Screen12(),
     );
   }
 }
