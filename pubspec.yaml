@@ -1,5 +1,7 @@
 name: challenge
+
 description: "A new Flutter project."
+
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -20,7 +22,6 @@ dev_dependencies:
   flutter_lints: ^6.0.0
 
 flutter:
-
   uses-material-design: true
 
   assets:
@@ -35,3 +36,19 @@ flutter:
     - assets/travel/
     - assets/delivery/
     - assets/quran/
+    - assets/tickets/
+    - assets/hotel/
+    - assets/car/
+
+  fonts:
+    - family: Facebook
+      fonts:
+        - asset: assets/fonts/facebook-Bold.ttf
+
+    - family: Grindy
+      fonts:
+        - asset: assets/fonts/Grindy Brush.otf
+
+    - family: Heylowitch
+      fonts:
+        - asset: assets/fonts/Heylowitch-Regular.otf
