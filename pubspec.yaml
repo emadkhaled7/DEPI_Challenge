@@ -39,6 +39,7 @@ flutter:
     - assets/tickets/
     - assets/hotel/
     - assets/car/
+    - assets/home/
 
   fonts:
     - family: Facebook
